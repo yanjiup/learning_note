@@ -1,5 +1,8 @@
 {
     "python.analysis.extraPaths": [
         "D:\\Program Files\\Lumerical\\v241\\api\\python"
-    ]
+    ],
+    "markdown.copyFiles.destination": {
+        "**/*": "assets/"
+    }
 }
